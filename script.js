@@ -20,11 +20,26 @@ document.getElementById("amount").innerText = formatAmount(amount);
 
 // Random motivational quote
 const quotes = [
-  "Eid Mubarak! May your blessings multiply like salami notes 🎁",
-  "This Eid, spread joy and good vibes like confetti 🎊",
-  "May this small gesture light up your Eid! 🌙",
-  "The joy of giving is the best salami 🧡",
-  "Celebrate with happiness, not just money 🕊️"
+  "Eid Mubarak! May your life be full of blessings like salami notes 🌙💸"
+"On this Eid, may your heart be happy like a child with new clothes 👕😊"
+"Give smiles, give hugs, give love – that’s the real salami 🤗❤️"
+"Eat biryani, wear new dress, but don’t forget to thank Allah 🍽️🕌"
+"Eid is not only about gifts, it's about love and dua too 💝🤲"
+"Say ‘Eid Mubarak’ from your heart, not just your lips 💬💛"
+"This Eid, may your house be full of guests and your heart full of peace 🏡🕊️"
+"The best salami is a dua made with love 🤲💖"
+"Make your parents smile today – that’s a big reward 😊👨‍👩‍👧"
+"Eid is the time to forgive and forget – clean your heart today 🧽❤️"
+"Your good behaviour is also a gift for others this Eid 🎁🙂"
+"May Allah fill your home with happiness and your heart with Imaan 🏠✨"
+"Say Takbeer loudly, say thank you softly 📢🙏"
+"New dress fades, but good deeds stay forever 👗🌟"
+"This Eid, don’t just share sweets – share love too 🍬💞"
+"A small act of kindness is bigger than a big gift 💝🙌"
+"Celebrate Eid, but also remember the poor and needy 🤲🍱"
+"Eid is not only a day to enjoy, but also a day to be thankful 🌙🧎‍♂️"
+"Give salami, but also give a smile 😊💸"
+"If your heart is clean, every day feels like Eid 🧼❤️"
 ];
 document.getElementById("quote").innerText = quotes[Math.floor(Math.random() * quotes.length)];
 
